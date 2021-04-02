@@ -1,5 +1,5 @@
 ### <h1>Hello Folks 👋, I'm Vibhav</h1>
-A <strong> Curious Learner form India </strong>, don't have much for now Check again in some time :)
+A <strong> Curious Learner from India </strong>, don't have much for now Check again in some time :)
 
 <!--
 **reapedjuggler/reapedjuggler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
