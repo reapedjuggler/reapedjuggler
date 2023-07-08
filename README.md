@@ -1,6 +1,10 @@
 ### <h1>Hello Folks 👋, I'm Vibhav</h1>
-A <strong> Curious Learner from India </strong>, don't have much for now Check again in some time :)
-
+A <strong> Backend Engineer and Problem Solver </strong>
+<ul>
+<br> 
+  <li> Currently working as a backend engineer at American Express (AmEx), previously worked with Tartan and Moyyn and helped them in scaling and maintaining the backend of their applications.</li>
+  <li> Interested in anything and everything that revolves around web </li>
+</ul>
 <!--
 **reapedjuggler/reapedjuggler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
