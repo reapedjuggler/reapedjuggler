@@ -2,7 +2,7 @@
 A <strong> Backend Engineer and Problem Solver </strong>
 <ul>
 <br> 
-  <li> Currently working as a backend engineer at American Express (AmEx), previously worked with Tartan and Moyyn and helped them in scaling and maintaining the backend of their applications.</li>
+  <li> Currently working as a backend engineer at Uni Cards, previously worked with American Express (AmEx), Tartan, and Moyyn and helped them in scaling and maintaining the backend of their applications.</li>
   <li> Interested in anything and everything that revolves around web </li>
 </ul>
 <!--
